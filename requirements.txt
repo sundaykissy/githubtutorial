@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+gunicorn
+flask-cors
+PyJWT
+pymongo 
+flask_limiter
+flask_pymongo
